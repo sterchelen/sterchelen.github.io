@@ -6,9 +6,22 @@
     <description>Recent content on nicolassterchele</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2019 21:53:48 +0200</lastBuildDate>
     
 	<atom:link href="https://sterchelen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://sterchelen.github.io/about/</link>
+      <pubDate>Sun, 15 Sep 2019 21:53:48 +0200</pubDate>
+      
+      <guid>https://sterchelen.github.io/about/</guid>
+      <description>Hi, my name is Nicolas Sterchele, I&amp;rsquo;m living in France with a passion for everything related to OSS.
+ NOOOO, not the famous agent Hubert Bonisseur de La Bath OSS 117
+ In my day to day job I am a DevOps or an SRE(as you want)&amp;hellip; working on reliability, scalability, performance and automation.
+This blog is about my journey in the open source world, how I live in, how I interact with, how I love it.</description>
+    </item>
     
   </channel>
 </rss>

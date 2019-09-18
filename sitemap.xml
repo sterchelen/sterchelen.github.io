@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sterchelen.github.io/categories/</loc>
+    <loc>https://sterchelen.github.io/about/</loc>
+    <lastmod>2019-09-15T21:53:48+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://sterchelen.github.io/</loc>
+    <lastmod>2019-09-15T21:53:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sterchelen.github.io/categories/</loc>
   </url>
   
   <url>
