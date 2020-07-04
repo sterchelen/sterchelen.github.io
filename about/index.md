@@ -1,8 +1,6 @@
 # About me
 
 
-{{< image src="/images/me_working.jpg" title="typical night" width="550px" caption="Typical evening" linked=false >}}
-
 ## Me in 10 bullet points or so
 
 * **3 jobs**
@@ -63,6 +61,10 @@ I use `Go`[^10] and `C`[^11]. With that you can conquere the world :)
 By **mail** via {{< image src="/images/mail.png" linked=false >}}  
 **Twitter** via [@sterchelen](https://twitter.com/sterchelen)  
 **Github** via [@sterchelen](https://github.com/sterchelen) also  
+
+---
+
+{{< image src="/images/me_working.jpg" title="typical night" width="550px" caption="Typical evening" linked=false >}}
 
 [^1]: [Keep It Simple Stupid](https://en.wikipedia.org/wiki/KISS_principle)
 [^2]: [Arch](https://wiki.archlinux.org/index.php/Arch_Linux#Principles)
