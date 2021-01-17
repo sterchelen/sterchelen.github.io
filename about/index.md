@@ -4,8 +4,7 @@
 ## Me in 10 bullet points or so
 
 * **3 jobs**
-  * love my **wife** and be a **dad** of a 2 years old daughter
-    * a boy is coming soon (eta: september 2020)
+  * love my **wife** and be a **dad** of two childs.
   * **contributor** to open source projects
     * learning, **REALLY**, a **LOT OF THINGS** by contributing to [*curl*](https://github.com/curl/curl)
   * **site reliability engineer** as a paid job
