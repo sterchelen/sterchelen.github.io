@@ -11,6 +11,10 @@
 * I was used to do **rock climbing** before having two childs
 * I am used to **drinking coffee** to keep me awake :baby: :baby:
 
+## Human languages
+My mother tongue is french.  
+I read and write english fluently. I speak in an intermediate way, living in France is not a great help.  
+
 ## Software preferences
 ### Tools
 I try to use small tools, that follow the KISS[^1] principle.  
@@ -48,6 +52,7 @@ My current configuration is somewhat usual this days:
 - **Disk:** 512 GB NVMe
 
 {{< /admonition >}}
+
 ## Contact
 **IRC** via `sterchelen`  
 By **mail** via {{< image src="/images/mail.png" linked=false >}}  
