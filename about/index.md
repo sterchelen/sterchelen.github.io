@@ -13,7 +13,7 @@
 
 ## Human languages
 My mother tongue is french.  
-I read and write english fluently. I speak in an intermediate way, living in France is not a great help.  
+I read and write english fluently. I speak in an intermediate way (B2 level).  
 
 ## Software preferences
 ### Tools
